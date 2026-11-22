@@ -1,16 +1,9 @@
-
 # API Learning
 
-A practical introduction to REST APIs.
+A repository focused on learning application programming interfaces.
 
-## Topics
-- HTTP methods
-- GET and POST requests
-- Request headers
-- JSON responses
-- Status codes
-- Error handling
+## Purpose
+Explore API concepts and application integration.
 
-## Learning Goals
-Understand how applications communicate through APIs.
-  
+## Getting Started
+Review the available examples and their configuration requirements.
