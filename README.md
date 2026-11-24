@@ -36,3 +36,12 @@ Commit Message:
 
 Understand how applications communicate
 with external services through APIs.
+## Manual Testing Checklist
+
+- [ ] Review an example request and its endpoint.
+- [ ] Check HTTP methods, headers and expected response formats.
+- [ ] Avoid committing real API credentials or access tokens.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
